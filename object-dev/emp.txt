@@ -1,0 +1,6 @@
+1, ramu, b, 22, r@r.com, 60000
+2, vijay, m, 26, y@r.com, 90000
+3, bhanu, p, 24, u@r.com, 40000
+4, vittal, a, 27, v@r.com, 50000
+5, rekha, c, 21, a@r.com, 80000
+6, mohan, r, 25, c@r.com, 70000

@@ -1,0 +1,9 @@
+note
+----
+
+1.	\d	====>	digit
+2.	\D	====>	other than digit
+3.	\w	====>	all word chars (alphanumerics and _)
+4.	\W	====>	other than all word chars 
+5.	\s	====>	white space
+6.	\S	====>	other than white space
